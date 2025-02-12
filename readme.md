@@ -1,4 +1,5 @@
 
-# Git Crash Course
+# Hello everyone, welcome to my git guide!
 
-This is only used for testing github. 
+- Yo, JSM here!
+-This is only used for testing github. 
